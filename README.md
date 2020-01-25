@@ -81,3 +81,5 @@ hello.
 =======
 dev branch details.
 >>>>>>> dev
+
+a small update in the master.
