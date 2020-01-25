@@ -74,6 +74,10 @@ my first pull request about to start.
 ================================
 The author of this changes is ~NaveenPatke.
 
+<<<<<<< HEAD
 hello.
 
 
+=======
+dev branch details.
+>>>>>>> dev
